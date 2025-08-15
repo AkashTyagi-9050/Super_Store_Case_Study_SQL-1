@@ -28,7 +28,7 @@ This project covers 17 SQL analysis questions:
 3. Most frequent buyers
 4. Customers inactive in last 6 months
 5. Total sales & profit by region
-6. **Distinct customers by region
+6. Distinct customers by region
 7. Customers purchasing all three categories
 8. Repeat purchase rate
 9. Average order value per segment
@@ -48,5 +48,6 @@ This project covers 17 SQL analysis questions:
 - Date functions: DATE_FORMAT(), DATE_SUB(), DATE_ADD()
 - Filtering: WHERE with ranges & conditions
 - Ordering & Limiting: ORDER BY, LIMIT
+
 
 
