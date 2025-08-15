@@ -1,0 +1,301 @@
+product_id,category,sub_category,product_name,unit_price
+P001,Office Supplies,Chairs,Product_1,327.23
+P002,Technology,Chairs,Product_2,274.99
+P003,Office Supplies,Tables,Product_3,35.83
+P004,Furniture,Tables,Product_4,258.69
+P005,Office Supplies,Phones,Product_5,404.17
+P006,Technology,Chairs,Product_6,232.32
+P007,Office Supplies,Storage,Product_7,30.72
+P008,Office Supplies,Storage,Product_8,394.21
+P009,Office Supplies,Chairs,Product_9,104.68
+P010,Technology,Chairs,Product_10,133.02
+P011,Office Supplies,Chairs,Product_11,86.53
+P012,Office Supplies,Tables,Product_12,168.46
+P013,Furniture,Tables,Product_13,379.59
+P014,Technology,Tables,Product_14,262.1
+P015,Office Supplies,Binders,Product_15,106.42
+P016,Technology,Storage,Product_16,439.53
+P017,Office Supplies,Storage,Product_17,440.39
+P018,Office Supplies,Phones,Product_18,435.94
+P019,Office Supplies,Tables,Product_19,123.2
+P020,Furniture,Binders,Product_20,228.36
+P021,Furniture,Binders,Product_21,492.57
+P022,Furniture,Storage,Product_22,387.15
+P023,Technology,Tables,Product_23,18.45
+P024,Technology,Phones,Product_24,37.28
+P025,Furniture,Tables,Product_25,234.65
+P026,Technology,Chairs,Product_26,455.06
+P027,Office Supplies,Tables,Product_27,271.66
+P028,Office Supplies,Chairs,Product_28,251.42
+P029,Office Supplies,Chairs,Product_29,57.21
+P030,Furniture,Phones,Product_30,330.11
+P031,Technology,Storage,Product_31,411.94
+P032,Furniture,Tables,Product_32,193.31
+P033,Technology,Chairs,Product_33,388.93
+P034,Office Supplies,Tables,Product_34,482.42
+P035,Furniture,Storage,Product_35,105.86
+P036,Technology,Storage,Product_36,264.05
+P037,Technology,Binders,Product_37,147.13
+P038,Office Supplies,Storage,Product_38,397.46
+P039,Furniture,Phones,Product_39,290.91
+P040,Furniture,Chairs,Product_40,319.12
+P041,Furniture,Binders,Product_41,399.97
+P042,Office Supplies,Phones,Product_42,201.01
+P043,Furniture,Tables,Product_43,457.97
+P044,Office Supplies,Chairs,Product_44,268.85
+P045,Office Supplies,Storage,Product_45,83.19
+P046,Office Supplies,Chairs,Product_46,349.47
+P047,Technology,Tables,Product_47,397.66
+P048,Furniture,Binders,Product_48,161.8
+P049,Furniture,Binders,Product_49,429.3
+P050,Office Supplies,Binders,Product_50,453.54
+P051,Office Supplies,Storage,Product_51,142.07
+P052,Furniture,Phones,Product_52,491.84
+P053,Office Supplies,Phones,Product_53,74.65
+P054,Furniture,Chairs,Product_54,105.0
+P055,Technology,Storage,Product_55,96.19
+P056,Office Supplies,Binders,Product_56,447.52
+P057,Furniture,Binders,Product_57,328.87
+P058,Office Supplies,Tables,Product_58,80.29
+P059,Furniture,Tables,Product_59,222.96
+P060,Furniture,Binders,Product_60,309.57
+P061,Office Supplies,Binders,Product_61,46.31
+P062,Technology,Storage,Product_62,441.8
+P063,Furniture,Phones,Product_63,402.78
+P064,Furniture,Tables,Product_64,255.08
+P065,Furniture,Phones,Product_65,483.73
+P066,Technology,Storage,Product_66,211.79
+P067,Technology,Binders,Product_67,492.13
+P068,Office Supplies,Phones,Product_68,335.62
+P069,Technology,Binders,Product_69,319.16
+P070,Office Supplies,Binders,Product_70,87.15
+P071,Office Supplies,Chairs,Product_71,441.55
+P072,Technology,Phones,Product_72,216.61
+P073,Office Supplies,Phones,Product_73,85.31
+P074,Technology,Binders,Product_74,11.24
+P075,Office Supplies,Storage,Product_75,282.08
+P076,Technology,Chairs,Product_76,266.06
+P077,Technology,Binders,Product_77,361.08
+P078,Office Supplies,Tables,Product_78,445.68
+P079,Furniture,Tables,Product_79,44.31
+P080,Office Supplies,Chairs,Product_80,367.09
+P081,Technology,Storage,Product_81,97.77
+P082,Furniture,Binders,Product_82,429.8
+P083,Office Supplies,Phones,Product_83,410.44
+P084,Office Supplies,Chairs,Product_84,272.69
+P085,Office Supplies,Storage,Product_85,356.57
+P086,Furniture,Phones,Product_86,160.6
+P087,Technology,Tables,Product_87,238.23
+P088,Office Supplies,Tables,Product_88,411.71
+P089,Office Supplies,Phones,Product_89,232.34
+P090,Office Supplies,Chairs,Product_90,182.11
+P091,Office Supplies,Tables,Product_91,249.64
+P092,Office Supplies,Binders,Product_92,414.98
+P093,Technology,Phones,Product_93,170.93
+P094,Technology,Phones,Product_94,91.01
+P095,Office Supplies,Tables,Product_95,357.45
+P096,Furniture,Chairs,Product_96,413.86
+P097,Technology,Binders,Product_97,54.82
+P098,Furniture,Chairs,Product_98,123.74
+P099,Technology,Storage,Product_99,75.28
+P100,Office Supplies,Storage,Product_100,177.23
+P101,Technology,Tables,Product_101,227.92
+P102,Office Supplies,Tables,Product_102,375.67
+P103,Technology,Tables,Product_103,327.32
+P104,Office Supplies,Storage,Product_104,312.36
+P105,Office Supplies,Chairs,Product_105,179.43
+P106,Office Supplies,Chairs,Product_106,421.52
+P107,Office Supplies,Tables,Product_107,238.29
+P108,Furniture,Binders,Product_108,489.66
+P109,Office Supplies,Chairs,Product_109,318.9
+P110,Furniture,Storage,Product_110,67.5
+P111,Furniture,Phones,Product_111,339.71
+P112,Office Supplies,Phones,Product_112,165.93
+P113,Furniture,Phones,Product_113,344.73
+P114,Technology,Binders,Product_114,39.47
+P115,Office Supplies,Tables,Product_115,91.57
+P116,Furniture,Storage,Product_116,428.59
+P117,Office Supplies,Binders,Product_117,117.45
+P118,Office Supplies,Storage,Product_118,419.34
+P119,Office Supplies,Storage,Product_119,143.24
+P120,Furniture,Tables,Product_120,323.23
+P121,Technology,Phones,Product_121,348.6
+P122,Technology,Tables,Product_122,258.76
+P123,Furniture,Binders,Product_123,156.13
+P124,Office Supplies,Binders,Product_124,110.26
+P125,Furniture,Binders,Product_125,21.43
+P126,Furniture,Tables,Product_126,155.45
+P127,Furniture,Storage,Product_127,328.32
+P128,Office Supplies,Storage,Product_128,469.46
+P129,Furniture,Chairs,Product_129,436.25
+P130,Office Supplies,Binders,Product_130,384.2
+P131,Furniture,Storage,Product_131,395.28
+P132,Technology,Chairs,Product_132,334.17
+P133,Furniture,Storage,Product_133,133.84
+P134,Furniture,Binders,Product_134,454.06
+P135,Technology,Phones,Product_135,337.01
+P136,Office Supplies,Binders,Product_136,282.42
+P137,Office Supplies,Tables,Product_137,59.94
+P138,Furniture,Storage,Product_138,226.29
+P139,Technology,Storage,Product_139,232.88
+P140,Office Supplies,Tables,Product_140,432.96
+P141,Furniture,Tables,Product_141,275.59
+P142,Technology,Phones,Product_142,193.3
+P143,Office Supplies,Storage,Product_143,488.52
+P144,Office Supplies,Storage,Product_144,59.81
+P145,Technology,Phones,Product_145,214.16
+P146,Technology,Chairs,Product_146,25.8
+P147,Technology,Phones,Product_147,371.25
+P148,Technology,Binders,Product_148,459.45
+P149,Furniture,Storage,Product_149,143.62
+P150,Technology,Tables,Product_150,429.88
+P151,Office Supplies,Binders,Product_151,149.65
+P152,Office Supplies,Storage,Product_152,455.83
+P153,Furniture,Phones,Product_153,378.21
+P154,Office Supplies,Binders,Product_154,403.43
+P155,Office Supplies,Storage,Product_155,13.91
+P156,Technology,Chairs,Product_156,481.59
+P157,Office Supplies,Chairs,Product_157,364.7
+P158,Furniture,Tables,Product_158,155.85
+P159,Technology,Storage,Product_159,415.55
+P160,Technology,Chairs,Product_160,144.35
+P161,Furniture,Phones,Product_161,437.01
+P162,Technology,Storage,Product_162,60.73
+P163,Technology,Phones,Product_163,353.32
+P164,Furniture,Phones,Product_164,272.65
+P165,Technology,Chairs,Product_165,52.78
+P166,Furniture,Storage,Product_166,124.74
+P167,Furniture,Binders,Product_167,11.14
+P168,Office Supplies,Chairs,Product_168,237.04
+P169,Office Supplies,Chairs,Product_169,154.13
+P170,Technology,Storage,Product_170,301.19
+P171,Technology,Storage,Product_171,152.13
+P172,Furniture,Phones,Product_172,153.46
+P173,Technology,Storage,Product_173,372.88
+P174,Furniture,Phones,Product_174,28.83
+P175,Furniture,Chairs,Product_175,451.93
+P176,Technology,Tables,Product_176,426.87
+P177,Furniture,Binders,Product_177,335.56
+P178,Office Supplies,Chairs,Product_178,298.64
+P179,Technology,Storage,Product_179,446.69
+P180,Office Supplies,Binders,Product_180,96.74
+P181,Technology,Tables,Product_181,44.09
+P182,Furniture,Tables,Product_182,123.56
+P183,Technology,Phones,Product_183,398.32
+P184,Office Supplies,Binders,Product_184,22.16
+P185,Furniture,Phones,Product_185,293.49
+P186,Technology,Chairs,Product_186,497.74
+P187,Technology,Binders,Product_187,428.57
+P188,Technology,Chairs,Product_188,263.12
+P189,Office Supplies,Phones,Product_189,36.5
+P190,Office Supplies,Binders,Product_190,416.53
+P191,Technology,Phones,Product_191,301.49
+P192,Furniture,Binders,Product_192,61.89
+P193,Furniture,Phones,Product_193,51.46
+P194,Office Supplies,Tables,Product_194,455.27
+P195,Furniture,Phones,Product_195,336.25
+P196,Office Supplies,Tables,Product_196,415.5
+P197,Technology,Phones,Product_197,440.09
+P198,Office Supplies,Binders,Product_198,288.03
+P199,Office Supplies,Binders,Product_199,261.14
+P200,Technology,Binders,Product_200,218.06
+P201,Furniture,Storage,Product_201,161.89
+P202,Office Supplies,Chairs,Product_202,220.13
+P203,Office Supplies,Binders,Product_203,388.07
+P204,Technology,Tables,Product_204,302.95
+P205,Furniture,Binders,Product_205,446.8
+P206,Office Supplies,Storage,Product_206,224.47
+P207,Technology,Tables,Product_207,305.51
+P208,Office Supplies,Storage,Product_208,317.5
+P209,Technology,Tables,Product_209,297.89
+P210,Furniture,Phones,Product_210,352.8
+P211,Furniture,Chairs,Product_211,122.53
+P212,Furniture,Chairs,Product_212,258.62
+P213,Furniture,Storage,Product_213,56.59
+P214,Office Supplies,Chairs,Product_214,195.33
+P215,Office Supplies,Storage,Product_215,246.4
+P216,Furniture,Storage,Product_216,327.85
+P217,Furniture,Storage,Product_217,475.51
+P218,Furniture,Chairs,Product_218,302.32
+P219,Office Supplies,Storage,Product_219,373.08
+P220,Furniture,Chairs,Product_220,255.6
+P221,Furniture,Storage,Product_221,318.88
+P222,Furniture,Binders,Product_222,40.11
+P223,Technology,Storage,Product_223,130.92
+P224,Furniture,Tables,Product_224,184.12
+P225,Technology,Storage,Product_225,238.88
+P226,Technology,Phones,Product_226,27.6
+P227,Furniture,Storage,Product_227,74.31
+P228,Technology,Tables,Product_228,142.02
+P229,Furniture,Tables,Product_229,485.91
+P230,Office Supplies,Chairs,Product_230,169.02
+P231,Office Supplies,Binders,Product_231,243.61
+P232,Office Supplies,Storage,Product_232,102.07
+P233,Office Supplies,Chairs,Product_233,307.34
+P234,Technology,Binders,Product_234,143.94
+P235,Furniture,Storage,Product_235,107.46
+P236,Furniture,Phones,Product_236,260.7
+P237,Furniture,Storage,Product_237,7.73
+P238,Office Supplies,Tables,Product_238,8.79
+P239,Office Supplies,Tables,Product_239,113.44
+P240,Furniture,Phones,Product_240,23.18
+P241,Office Supplies,Chairs,Product_241,58.47
+P242,Furniture,Binders,Product_242,172.74
+P243,Furniture,Storage,Product_243,402.28
+P244,Furniture,Tables,Product_244,288.16
+P245,Furniture,Chairs,Product_245,258.77
+P246,Furniture,Phones,Product_246,150.28
+P247,Furniture,Tables,Product_247,466.22
+P248,Furniture,Phones,Product_248,201.52
+P249,Office Supplies,Storage,Product_249,48.11
+P250,Furniture,Binders,Product_250,310.45
+P251,Furniture,Tables,Product_251,61.35
+P252,Office Supplies,Tables,Product_252,175.89
+P253,Office Supplies,Storage,Product_253,256.17
+P254,Office Supplies,Chairs,Product_254,437.74
+P255,Furniture,Binders,Product_255,249.31
+P256,Technology,Tables,Product_256,352.62
+P257,Technology,Binders,Product_257,496.44
+P258,Office Supplies,Tables,Product_258,70.09
+P259,Technology,Binders,Product_259,140.99
+P260,Office Supplies,Phones,Product_260,200.32
+P261,Furniture,Tables,Product_261,213.8
+P262,Technology,Binders,Product_262,208.46
+P263,Furniture,Chairs,Product_263,454.27
+P264,Technology,Phones,Product_264,358.45
+P265,Furniture,Phones,Product_265,305.91
+P266,Technology,Chairs,Product_266,158.14
+P267,Furniture,Binders,Product_267,412.78
+P268,Furniture,Storage,Product_268,477.75
+P269,Technology,Chairs,Product_269,411.49
+P270,Furniture,Binders,Product_270,5.77
+P271,Furniture,Chairs,Product_271,320.02
+P272,Furniture,Chairs,Product_272,30.31
+P273,Technology,Tables,Product_273,132.52
+P274,Technology,Binders,Product_274,34.46
+P275,Furniture,Storage,Product_275,303.88
+P276,Furniture,Tables,Product_276,344.86
+P277,Technology,Chairs,Product_277,61.67
+P278,Technology,Chairs,Product_278,195.0
+P279,Furniture,Chairs,Product_279,230.84
+P280,Furniture,Binders,Product_280,187.68
+P281,Furniture,Binders,Product_281,64.91
+P282,Office Supplies,Tables,Product_282,212.38
+P283,Technology,Storage,Product_283,376.83
+P284,Office Supplies,Tables,Product_284,40.15
+P285,Technology,Phones,Product_285,44.69
+P286,Technology,Chairs,Product_286,180.61
+P287,Technology,Chairs,Product_287,471.15
+P288,Technology,Chairs,Product_288,335.94
+P289,Technology,Tables,Product_289,340.94
+P290,Technology,Tables,Product_290,184.15
+P291,Technology,Chairs,Product_291,298.86
+P292,Office Supplies,Tables,Product_292,10.01
+P293,Furniture,Binders,Product_293,319.87
+P294,Furniture,Binders,Product_294,457.08
+P295,Office Supplies,Tables,Product_295,308.22
+P296,Office Supplies,Chairs,Product_296,437.48
+P297,Office Supplies,Tables,Product_297,363.37
+P298,Office Supplies,Tables,Product_298,64.68
+P299,Technology,Tables,Product_299,451.71
+P300,Furniture,Phones,Product_300,37.89

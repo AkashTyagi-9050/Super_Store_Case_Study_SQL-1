@@ -1,0 +1,501 @@
+customer_id,customer_name,segment,region,signup_date
+C001,Customer_1,Home Office,West,2018-01-01
+C002,Customer_2,Consumer,West,2018-01-02
+C003,Customer_3,Home Office,Central,2018-01-03
+C004,Customer_4,Home Office,West,2018-01-04
+C005,Customer_5,Consumer,South,2018-01-05
+C006,Customer_6,Consumer,East,2018-01-06
+C007,Customer_7,Home Office,South,2018-01-07
+C008,Customer_8,Corporate,East,2018-01-08
+C009,Customer_9,Home Office,East,2018-01-09
+C010,Customer_10,Home Office,South,2018-01-10
+C011,Customer_11,Home Office,South,2018-01-11
+C012,Customer_12,Home Office,South,2018-01-12
+C013,Customer_13,Consumer,South,2018-01-13
+C014,Customer_14,Home Office,Central,2018-01-14
+C015,Customer_15,Corporate,West,2018-01-15
+C016,Customer_16,Consumer,East,2018-01-16
+C017,Customer_17,Corporate,South,2018-01-17
+C018,Customer_18,Corporate,South,2018-01-18
+C019,Customer_19,Corporate,South,2018-01-19
+C020,Customer_20,Corporate,Central,2018-01-20
+C021,Customer_21,Consumer,South,2018-01-21
+C022,Customer_22,Consumer,South,2018-01-22
+C023,Customer_23,Corporate,South,2018-01-23
+C024,Customer_24,Corporate,West,2018-01-24
+C025,Customer_25,Consumer,Central,2018-01-25
+C026,Customer_26,Consumer,South,2018-01-26
+C027,Customer_27,Consumer,East,2018-01-27
+C028,Customer_28,Home Office,East,2018-01-28
+C029,Customer_29,Home Office,East,2018-01-29
+C030,Customer_30,Home Office,Central,2018-01-30
+C031,Customer_31,Corporate,Central,2018-01-31
+C032,Customer_32,Home Office,East,2018-02-01
+C033,Customer_33,Corporate,South,2018-02-02
+C034,Customer_34,Corporate,Central,2018-02-03
+C035,Customer_35,Home Office,East,2018-02-04
+C036,Customer_36,Corporate,East,2018-02-05
+C037,Customer_37,Home Office,South,2018-02-06
+C038,Customer_38,Home Office,West,2018-02-07
+C039,Customer_39,Consumer,Central,2018-02-08
+C040,Customer_40,Home Office,South,2018-02-09
+C041,Customer_41,Consumer,East,2018-02-10
+C042,Customer_42,Home Office,East,2018-02-11
+C043,Customer_43,Home Office,South,2018-02-12
+C044,Customer_44,Consumer,Central,2018-02-13
+C045,Customer_45,Consumer,West,2018-02-14
+C046,Customer_46,Home Office,West,2018-02-15
+C047,Customer_47,Corporate,East,2018-02-16
+C048,Customer_48,Consumer,Central,2018-02-17
+C049,Customer_49,Corporate,West,2018-02-18
+C050,Customer_50,Corporate,Central,2018-02-19
+C051,Customer_51,Corporate,Central,2018-02-20
+C052,Customer_52,Consumer,East,2018-02-21
+C053,Customer_53,Corporate,West,2018-02-22
+C054,Customer_54,Consumer,South,2018-02-23
+C055,Customer_55,Corporate,East,2018-02-24
+C056,Customer_56,Home Office,West,2018-02-25
+C057,Customer_57,Home Office,West,2018-02-26
+C058,Customer_58,Consumer,West,2018-02-27
+C059,Customer_59,Home Office,West,2018-02-28
+C060,Customer_60,Home Office,West,2018-03-01
+C061,Customer_61,Corporate,Central,2018-03-02
+C062,Customer_62,Consumer,East,2018-03-03
+C063,Customer_63,Corporate,Central,2018-03-04
+C064,Customer_64,Corporate,South,2018-03-05
+C065,Customer_65,Corporate,West,2018-03-06
+C066,Customer_66,Corporate,East,2018-03-07
+C067,Customer_67,Corporate,West,2018-03-08
+C068,Customer_68,Corporate,East,2018-03-09
+C069,Customer_69,Corporate,Central,2018-03-10
+C070,Customer_70,Consumer,East,2018-03-11
+C071,Customer_71,Home Office,South,2018-03-12
+C072,Customer_72,Corporate,South,2018-03-13
+C073,Customer_73,Corporate,East,2018-03-14
+C074,Customer_74,Corporate,East,2018-03-15
+C075,Customer_75,Corporate,East,2018-03-16
+C076,Customer_76,Corporate,East,2018-03-17
+C077,Customer_77,Corporate,South,2018-03-18
+C078,Customer_78,Home Office,West,2018-03-19
+C079,Customer_79,Home Office,East,2018-03-20
+C080,Customer_80,Corporate,East,2018-03-21
+C081,Customer_81,Home Office,South,2018-03-22
+C082,Customer_82,Consumer,South,2018-03-23
+C083,Customer_83,Corporate,Central,2018-03-24
+C084,Customer_84,Consumer,East,2018-03-25
+C085,Customer_85,Consumer,Central,2018-03-26
+C086,Customer_86,Corporate,South,2018-03-27
+C087,Customer_87,Home Office,South,2018-03-28
+C088,Customer_88,Consumer,West,2018-03-29
+C089,Customer_89,Corporate,East,2018-03-30
+C090,Customer_90,Consumer,Central,2018-03-31
+C091,Customer_91,Consumer,South,2018-04-01
+C092,Customer_92,Consumer,South,2018-04-02
+C093,Customer_93,Consumer,Central,2018-04-03
+C094,Customer_94,Home Office,West,2018-04-04
+C095,Customer_95,Consumer,South,2018-04-05
+C096,Customer_96,Consumer,East,2018-04-06
+C097,Customer_97,Consumer,South,2018-04-07
+C098,Customer_98,Home Office,East,2018-04-08
+C099,Customer_99,Consumer,Central,2018-04-09
+C100,Customer_100,Consumer,East,2018-04-10
+C101,Customer_101,Home Office,Central,2018-04-11
+C102,Customer_102,Home Office,East,2018-04-12
+C103,Customer_103,Home Office,Central,2018-04-13
+C104,Customer_104,Consumer,East,2018-04-14
+C105,Customer_105,Home Office,West,2018-04-15
+C106,Customer_106,Home Office,East,2018-04-16
+C107,Customer_107,Consumer,East,2018-04-17
+C108,Customer_108,Home Office,West,2018-04-18
+C109,Customer_109,Consumer,South,2018-04-19
+C110,Customer_110,Corporate,South,2018-04-20
+C111,Customer_111,Home Office,East,2018-04-21
+C112,Customer_112,Corporate,West,2018-04-22
+C113,Customer_113,Consumer,East,2018-04-23
+C114,Customer_114,Home Office,Central,2018-04-24
+C115,Customer_115,Consumer,Central,2018-04-25
+C116,Customer_116,Corporate,East,2018-04-26
+C117,Customer_117,Consumer,South,2018-04-27
+C118,Customer_118,Home Office,South,2018-04-28
+C119,Customer_119,Home Office,East,2018-04-29
+C120,Customer_120,Corporate,East,2018-04-30
+C121,Customer_121,Consumer,Central,2018-05-01
+C122,Customer_122,Home Office,South,2018-05-02
+C123,Customer_123,Corporate,East,2018-05-03
+C124,Customer_124,Home Office,Central,2018-05-04
+C125,Customer_125,Home Office,South,2018-05-05
+C126,Customer_126,Consumer,West,2018-05-06
+C127,Customer_127,Home Office,Central,2018-05-07
+C128,Customer_128,Consumer,South,2018-05-08
+C129,Customer_129,Home Office,South,2018-05-09
+C130,Customer_130,Corporate,Central,2018-05-10
+C131,Customer_131,Home Office,West,2018-05-11
+C132,Customer_132,Consumer,Central,2018-05-12
+C133,Customer_133,Consumer,South,2018-05-13
+C134,Customer_134,Corporate,East,2018-05-14
+C135,Customer_135,Home Office,East,2018-05-15
+C136,Customer_136,Home Office,Central,2018-05-16
+C137,Customer_137,Corporate,South,2018-05-17
+C138,Customer_138,Home Office,East,2018-05-18
+C139,Customer_139,Home Office,South,2018-05-19
+C140,Customer_140,Consumer,Central,2018-05-20
+C141,Customer_141,Home Office,East,2018-05-21
+C142,Customer_142,Home Office,South,2018-05-22
+C143,Customer_143,Corporate,East,2018-05-23
+C144,Customer_144,Corporate,Central,2018-05-24
+C145,Customer_145,Consumer,South,2018-05-25
+C146,Customer_146,Home Office,East,2018-05-26
+C147,Customer_147,Home Office,Central,2018-05-27
+C148,Customer_148,Home Office,East,2018-05-28
+C149,Customer_149,Consumer,East,2018-05-29
+C150,Customer_150,Consumer,West,2018-05-30
+C151,Customer_151,Corporate,West,2018-05-31
+C152,Customer_152,Consumer,Central,2018-06-01
+C153,Customer_153,Home Office,West,2018-06-02
+C154,Customer_154,Home Office,Central,2018-06-03
+C155,Customer_155,Consumer,West,2018-06-04
+C156,Customer_156,Home Office,East,2018-06-05
+C157,Customer_157,Home Office,Central,2018-06-06
+C158,Customer_158,Consumer,Central,2018-06-07
+C159,Customer_159,Consumer,East,2018-06-08
+C160,Customer_160,Home Office,Central,2018-06-09
+C161,Customer_161,Home Office,Central,2018-06-10
+C162,Customer_162,Home Office,West,2018-06-11
+C163,Customer_163,Corporate,Central,2018-06-12
+C164,Customer_164,Corporate,South,2018-06-13
+C165,Customer_165,Corporate,East,2018-06-14
+C166,Customer_166,Consumer,West,2018-06-15
+C167,Customer_167,Corporate,West,2018-06-16
+C168,Customer_168,Consumer,South,2018-06-17
+C169,Customer_169,Consumer,East,2018-06-18
+C170,Customer_170,Corporate,East,2018-06-19
+C171,Customer_171,Corporate,West,2018-06-20
+C172,Customer_172,Corporate,Central,2018-06-21
+C173,Customer_173,Home Office,West,2018-06-22
+C174,Customer_174,Corporate,East,2018-06-23
+C175,Customer_175,Home Office,South,2018-06-24
+C176,Customer_176,Consumer,West,2018-06-25
+C177,Customer_177,Home Office,East,2018-06-26
+C178,Customer_178,Corporate,West,2018-06-27
+C179,Customer_179,Consumer,Central,2018-06-28
+C180,Customer_180,Consumer,West,2018-06-29
+C181,Customer_181,Consumer,West,2018-06-30
+C182,Customer_182,Home Office,East,2018-07-01
+C183,Customer_183,Corporate,East,2018-07-02
+C184,Customer_184,Consumer,East,2018-07-03
+C185,Customer_185,Consumer,West,2018-07-04
+C186,Customer_186,Consumer,Central,2018-07-05
+C187,Customer_187,Home Office,South,2018-07-06
+C188,Customer_188,Home Office,South,2018-07-07
+C189,Customer_189,Corporate,East,2018-07-08
+C190,Customer_190,Home Office,East,2018-07-09
+C191,Customer_191,Consumer,West,2018-07-10
+C192,Customer_192,Corporate,South,2018-07-11
+C193,Customer_193,Consumer,East,2018-07-12
+C194,Customer_194,Consumer,Central,2018-07-13
+C195,Customer_195,Home Office,Central,2018-07-14
+C196,Customer_196,Corporate,East,2018-07-15
+C197,Customer_197,Home Office,East,2018-07-16
+C198,Customer_198,Home Office,South,2018-07-17
+C199,Customer_199,Corporate,South,2018-07-18
+C200,Customer_200,Consumer,West,2018-07-19
+C201,Customer_201,Consumer,South,2018-07-20
+C202,Customer_202,Corporate,Central,2018-07-21
+C203,Customer_203,Consumer,Central,2018-07-22
+C204,Customer_204,Corporate,East,2018-07-23
+C205,Customer_205,Corporate,South,2018-07-24
+C206,Customer_206,Home Office,West,2018-07-25
+C207,Customer_207,Corporate,Central,2018-07-26
+C208,Customer_208,Home Office,Central,2018-07-27
+C209,Customer_209,Consumer,West,2018-07-28
+C210,Customer_210,Consumer,West,2018-07-29
+C211,Customer_211,Consumer,Central,2018-07-30
+C212,Customer_212,Consumer,Central,2018-07-31
+C213,Customer_213,Home Office,West,2018-08-01
+C214,Customer_214,Consumer,Central,2018-08-02
+C215,Customer_215,Corporate,East,2018-08-03
+C216,Customer_216,Corporate,East,2018-08-04
+C217,Customer_217,Corporate,West,2018-08-05
+C218,Customer_218,Home Office,South,2018-08-06
+C219,Customer_219,Consumer,West,2018-08-07
+C220,Customer_220,Consumer,West,2018-08-08
+C221,Customer_221,Consumer,South,2018-08-09
+C222,Customer_222,Home Office,South,2018-08-10
+C223,Customer_223,Corporate,South,2018-08-11
+C224,Customer_224,Corporate,East,2018-08-12
+C225,Customer_225,Consumer,Central,2018-08-13
+C226,Customer_226,Corporate,East,2018-08-14
+C227,Customer_227,Corporate,Central,2018-08-15
+C228,Customer_228,Home Office,East,2018-08-16
+C229,Customer_229,Home Office,Central,2018-08-17
+C230,Customer_230,Home Office,East,2018-08-18
+C231,Customer_231,Home Office,South,2018-08-19
+C232,Customer_232,Consumer,West,2018-08-20
+C233,Customer_233,Home Office,East,2018-08-21
+C234,Customer_234,Corporate,Central,2018-08-22
+C235,Customer_235,Consumer,South,2018-08-23
+C236,Customer_236,Corporate,East,2018-08-24
+C237,Customer_237,Corporate,East,2018-08-25
+C238,Customer_238,Corporate,South,2018-08-26
+C239,Customer_239,Home Office,East,2018-08-27
+C240,Customer_240,Home Office,West,2018-08-28
+C241,Customer_241,Consumer,East,2018-08-29
+C242,Customer_242,Consumer,West,2018-08-30
+C243,Customer_243,Home Office,West,2018-08-31
+C244,Customer_244,Corporate,South,2018-09-01
+C245,Customer_245,Consumer,East,2018-09-02
+C246,Customer_246,Home Office,South,2018-09-03
+C247,Customer_247,Home Office,East,2018-09-04
+C248,Customer_248,Home Office,East,2018-09-05
+C249,Customer_249,Corporate,Central,2018-09-06
+C250,Customer_250,Home Office,East,2018-09-07
+C251,Customer_251,Home Office,South,2018-09-08
+C252,Customer_252,Home Office,West,2018-09-09
+C253,Customer_253,Home Office,East,2018-09-10
+C254,Customer_254,Consumer,Central,2018-09-11
+C255,Customer_255,Consumer,South,2018-09-12
+C256,Customer_256,Home Office,East,2018-09-13
+C257,Customer_257,Corporate,South,2018-09-14
+C258,Customer_258,Consumer,Central,2018-09-15
+C259,Customer_259,Home Office,Central,2018-09-16
+C260,Customer_260,Consumer,South,2018-09-17
+C261,Customer_261,Consumer,East,2018-09-18
+C262,Customer_262,Corporate,West,2018-09-19
+C263,Customer_263,Home Office,Central,2018-09-20
+C264,Customer_264,Home Office,East,2018-09-21
+C265,Customer_265,Corporate,East,2018-09-22
+C266,Customer_266,Corporate,West,2018-09-23
+C267,Customer_267,Home Office,Central,2018-09-24
+C268,Customer_268,Home Office,Central,2018-09-25
+C269,Customer_269,Corporate,East,2018-09-26
+C270,Customer_270,Consumer,East,2018-09-27
+C271,Customer_271,Consumer,West,2018-09-28
+C272,Customer_272,Corporate,West,2018-09-29
+C273,Customer_273,Consumer,Central,2018-09-30
+C274,Customer_274,Corporate,South,2018-10-01
+C275,Customer_275,Consumer,Central,2018-10-02
+C276,Customer_276,Consumer,East,2018-10-03
+C277,Customer_277,Home Office,Central,2018-10-04
+C278,Customer_278,Home Office,South,2018-10-05
+C279,Customer_279,Consumer,West,2018-10-06
+C280,Customer_280,Consumer,South,2018-10-07
+C281,Customer_281,Home Office,South,2018-10-08
+C282,Customer_282,Home Office,South,2018-10-09
+C283,Customer_283,Home Office,West,2018-10-10
+C284,Customer_284,Corporate,South,2018-10-11
+C285,Customer_285,Consumer,South,2018-10-12
+C286,Customer_286,Home Office,South,2018-10-13
+C287,Customer_287,Consumer,East,2018-10-14
+C288,Customer_288,Corporate,South,2018-10-15
+C289,Customer_289,Corporate,West,2018-10-16
+C290,Customer_290,Home Office,South,2018-10-17
+C291,Customer_291,Corporate,South,2018-10-18
+C292,Customer_292,Consumer,West,2018-10-19
+C293,Customer_293,Home Office,South,2018-10-20
+C294,Customer_294,Consumer,West,2018-10-21
+C295,Customer_295,Consumer,South,2018-10-22
+C296,Customer_296,Corporate,West,2018-10-23
+C297,Customer_297,Corporate,South,2018-10-24
+C298,Customer_298,Corporate,South,2018-10-25
+C299,Customer_299,Corporate,East,2018-10-26
+C300,Customer_300,Corporate,East,2018-10-27
+C301,Customer_301,Home Office,South,2018-10-28
+C302,Customer_302,Consumer,South,2018-10-29
+C303,Customer_303,Consumer,Central,2018-10-30
+C304,Customer_304,Consumer,West,2018-10-31
+C305,Customer_305,Consumer,Central,2018-11-01
+C306,Customer_306,Corporate,East,2018-11-02
+C307,Customer_307,Consumer,East,2018-11-03
+C308,Customer_308,Home Office,East,2018-11-04
+C309,Customer_309,Home Office,East,2018-11-05
+C310,Customer_310,Consumer,South,2018-11-06
+C311,Customer_311,Consumer,East,2018-11-07
+C312,Customer_312,Home Office,South,2018-11-08
+C313,Customer_313,Home Office,South,2018-11-09
+C314,Customer_314,Corporate,East,2018-11-10
+C315,Customer_315,Home Office,East,2018-11-11
+C316,Customer_316,Corporate,West,2018-11-12
+C317,Customer_317,Corporate,Central,2018-11-13
+C318,Customer_318,Corporate,East,2018-11-14
+C319,Customer_319,Corporate,West,2018-11-15
+C320,Customer_320,Corporate,West,2018-11-16
+C321,Customer_321,Consumer,Central,2018-11-17
+C322,Customer_322,Home Office,South,2018-11-18
+C323,Customer_323,Corporate,East,2018-11-19
+C324,Customer_324,Home Office,Central,2018-11-20
+C325,Customer_325,Home Office,East,2018-11-21
+C326,Customer_326,Corporate,West,2018-11-22
+C327,Customer_327,Consumer,West,2018-11-23
+C328,Customer_328,Corporate,South,2018-11-24
+C329,Customer_329,Consumer,West,2018-11-25
+C330,Customer_330,Home Office,West,2018-11-26
+C331,Customer_331,Consumer,Central,2018-11-27
+C332,Customer_332,Consumer,East,2018-11-28
+C333,Customer_333,Consumer,East,2018-11-29
+C334,Customer_334,Home Office,Central,2018-11-30
+C335,Customer_335,Home Office,South,2018-12-01
+C336,Customer_336,Consumer,East,2018-12-02
+C337,Customer_337,Consumer,West,2018-12-03
+C338,Customer_338,Corporate,East,2018-12-04
+C339,Customer_339,Consumer,West,2018-12-05
+C340,Customer_340,Corporate,South,2018-12-06
+C341,Customer_341,Consumer,Central,2018-12-07
+C342,Customer_342,Corporate,East,2018-12-08
+C343,Customer_343,Home Office,Central,2018-12-09
+C344,Customer_344,Consumer,East,2018-12-10
+C345,Customer_345,Consumer,West,2018-12-11
+C346,Customer_346,Consumer,Central,2018-12-12
+C347,Customer_347,Consumer,East,2018-12-13
+C348,Customer_348,Corporate,West,2018-12-14
+C349,Customer_349,Consumer,Central,2018-12-15
+C350,Customer_350,Home Office,Central,2018-12-16
+C351,Customer_351,Home Office,East,2018-12-17
+C352,Customer_352,Consumer,East,2018-12-18
+C353,Customer_353,Home Office,East,2018-12-19
+C354,Customer_354,Consumer,West,2018-12-20
+C355,Customer_355,Consumer,East,2018-12-21
+C356,Customer_356,Home Office,Central,2018-12-22
+C357,Customer_357,Consumer,Central,2018-12-23
+C358,Customer_358,Home Office,East,2018-12-24
+C359,Customer_359,Corporate,East,2018-12-25
+C360,Customer_360,Consumer,South,2018-12-26
+C361,Customer_361,Corporate,Central,2018-12-27
+C362,Customer_362,Home Office,West,2018-12-28
+C363,Customer_363,Corporate,South,2018-12-29
+C364,Customer_364,Corporate,East,2018-12-30
+C365,Customer_365,Home Office,East,2018-12-31
+C366,Customer_366,Corporate,Central,2019-01-01
+C367,Customer_367,Corporate,East,2019-01-02
+C368,Customer_368,Home Office,West,2019-01-03
+C369,Customer_369,Corporate,Central,2019-01-04
+C370,Customer_370,Home Office,East,2019-01-05
+C371,Customer_371,Corporate,Central,2019-01-06
+C372,Customer_372,Home Office,East,2019-01-07
+C373,Customer_373,Home Office,East,2019-01-08
+C374,Customer_374,Corporate,East,2019-01-09
+C375,Customer_375,Corporate,West,2019-01-10
+C376,Customer_376,Corporate,West,2019-01-11
+C377,Customer_377,Consumer,Central,2019-01-12
+C378,Customer_378,Consumer,East,2019-01-13
+C379,Customer_379,Consumer,East,2019-01-14
+C380,Customer_380,Home Office,West,2019-01-15
+C381,Customer_381,Corporate,East,2019-01-16
+C382,Customer_382,Home Office,West,2019-01-17
+C383,Customer_383,Consumer,East,2019-01-18
+C384,Customer_384,Corporate,Central,2019-01-19
+C385,Customer_385,Home Office,East,2019-01-20
+C386,Customer_386,Corporate,East,2019-01-21
+C387,Customer_387,Home Office,South,2019-01-22
+C388,Customer_388,Corporate,West,2019-01-23
+C389,Customer_389,Consumer,East,2019-01-24
+C390,Customer_390,Consumer,East,2019-01-25
+C391,Customer_391,Corporate,South,2019-01-26
+C392,Customer_392,Home Office,South,2019-01-27
+C393,Customer_393,Consumer,West,2019-01-28
+C394,Customer_394,Consumer,South,2019-01-29
+C395,Customer_395,Consumer,Central,2019-01-30
+C396,Customer_396,Corporate,South,2019-01-31
+C397,Customer_397,Corporate,Central,2019-02-01
+C398,Customer_398,Home Office,West,2019-02-02
+C399,Customer_399,Home Office,West,2019-02-03
+C400,Customer_400,Home Office,West,2019-02-04
+C401,Customer_401,Corporate,West,2019-02-05
+C402,Customer_402,Corporate,West,2019-02-06
+C403,Customer_403,Home Office,Central,2019-02-07
+C404,Customer_404,Home Office,Central,2019-02-08
+C405,Customer_405,Corporate,West,2019-02-09
+C406,Customer_406,Home Office,South,2019-02-10
+C407,Customer_407,Consumer,East,2019-02-11
+C408,Customer_408,Corporate,West,2019-02-12
+C409,Customer_409,Home Office,South,2019-02-13
+C410,Customer_410,Corporate,East,2019-02-14
+C411,Customer_411,Consumer,West,2019-02-15
+C412,Customer_412,Corporate,West,2019-02-16
+C413,Customer_413,Corporate,Central,2019-02-17
+C414,Customer_414,Corporate,East,2019-02-18
+C415,Customer_415,Corporate,East,2019-02-19
+C416,Customer_416,Consumer,South,2019-02-20
+C417,Customer_417,Corporate,Central,2019-02-21
+C418,Customer_418,Corporate,Central,2019-02-22
+C419,Customer_419,Home Office,Central,2019-02-23
+C420,Customer_420,Corporate,Central,2019-02-24
+C421,Customer_421,Home Office,East,2019-02-25
+C422,Customer_422,Consumer,East,2019-02-26
+C423,Customer_423,Consumer,West,2019-02-27
+C424,Customer_424,Consumer,West,2019-02-28
+C425,Customer_425,Consumer,Central,2019-03-01
+C426,Customer_426,Home Office,Central,2019-03-02
+C427,Customer_427,Corporate,Central,2019-03-03
+C428,Customer_428,Consumer,West,2019-03-04
+C429,Customer_429,Corporate,South,2019-03-05
+C430,Customer_430,Home Office,South,2019-03-06
+C431,Customer_431,Home Office,West,2019-03-07
+C432,Customer_432,Home Office,West,2019-03-08
+C433,Customer_433,Consumer,West,2019-03-09
+C434,Customer_434,Corporate,West,2019-03-10
+C435,Customer_435,Corporate,West,2019-03-11
+C436,Customer_436,Corporate,West,2019-03-12
+C437,Customer_437,Home Office,Central,2019-03-13
+C438,Customer_438,Consumer,Central,2019-03-14
+C439,Customer_439,Home Office,Central,2019-03-15
+C440,Customer_440,Home Office,Central,2019-03-16
+C441,Customer_441,Corporate,West,2019-03-17
+C442,Customer_442,Home Office,South,2019-03-18
+C443,Customer_443,Corporate,East,2019-03-19
+C444,Customer_444,Consumer,West,2019-03-20
+C445,Customer_445,Corporate,East,2019-03-21
+C446,Customer_446,Consumer,South,2019-03-22
+C447,Customer_447,Corporate,Central,2019-03-23
+C448,Customer_448,Home Office,South,2019-03-24
+C449,Customer_449,Home Office,West,2019-03-25
+C450,Customer_450,Consumer,Central,2019-03-26
+C451,Customer_451,Consumer,West,2019-03-27
+C452,Customer_452,Consumer,Central,2019-03-28
+C453,Customer_453,Corporate,East,2019-03-29
+C454,Customer_454,Corporate,East,2019-03-30
+C455,Customer_455,Consumer,East,2019-03-31
+C456,Customer_456,Home Office,South,2019-04-01
+C457,Customer_457,Corporate,West,2019-04-02
+C458,Customer_458,Corporate,South,2019-04-03
+C459,Customer_459,Corporate,East,2019-04-04
+C460,Customer_460,Consumer,West,2019-04-05
+C461,Customer_461,Consumer,East,2019-04-06
+C462,Customer_462,Consumer,South,2019-04-07
+C463,Customer_463,Consumer,South,2019-04-08
+C464,Customer_464,Consumer,South,2019-04-09
+C465,Customer_465,Home Office,East,2019-04-10
+C466,Customer_466,Home Office,West,2019-04-11
+C467,Customer_467,Consumer,West,2019-04-12
+C468,Customer_468,Corporate,East,2019-04-13
+C469,Customer_469,Consumer,West,2019-04-14
+C470,Customer_470,Home Office,East,2019-04-15
+C471,Customer_471,Home Office,West,2019-04-16
+C472,Customer_472,Corporate,Central,2019-04-17
+C473,Customer_473,Home Office,Central,2019-04-18
+C474,Customer_474,Consumer,South,2019-04-19
+C475,Customer_475,Corporate,Central,2019-04-20
+C476,Customer_476,Consumer,Central,2019-04-21
+C477,Customer_477,Consumer,Central,2019-04-22
+C478,Customer_478,Corporate,East,2019-04-23
+C479,Customer_479,Consumer,Central,2019-04-24
+C480,Customer_480,Home Office,Central,2019-04-25
+C481,Customer_481,Consumer,South,2019-04-26
+C482,Customer_482,Corporate,Central,2019-04-27
+C483,Customer_483,Corporate,Central,2019-04-28
+C484,Customer_484,Corporate,West,2019-04-29
+C485,Customer_485,Consumer,South,2019-04-30
+C486,Customer_486,Corporate,South,2019-05-01
+C487,Customer_487,Corporate,South,2019-05-02
+C488,Customer_488,Consumer,South,2019-05-03
+C489,Customer_489,Home Office,South,2019-05-04
+C490,Customer_490,Consumer,South,2019-05-05
+C491,Customer_491,Corporate,East,2019-05-06
+C492,Customer_492,Corporate,Central,2019-05-07
+C493,Customer_493,Consumer,South,2019-05-08
+C494,Customer_494,Home Office,Central,2019-05-09
+C495,Customer_495,Corporate,Central,2019-05-10
+C496,Customer_496,Corporate,East,2019-05-11
+C497,Customer_497,Corporate,South,2019-05-12
+C498,Customer_498,Consumer,West,2019-05-13
+C499,Customer_499,Corporate,East,2019-05-14
+C500,Customer_500,Home Office,West,2019-05-15

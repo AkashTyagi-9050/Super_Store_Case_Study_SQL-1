@@ -1,0 +1,151 @@
+return_id,order_id,return_reason,return_date
+R001,O0401,Damaged,2020-06-01
+R002,O0284,Damaged,2020-06-02
+R003,O0449,Wrong Item,2020-06-03
+R004,O0678,Wrong Item,2020-06-04
+R005,O0392,Late Delivery,2020-06-05
+R006,O0885,Wrong Item,2020-06-06
+R007,O0660,Late Delivery,2020-06-07
+R008,O0998,Customer Dissatisfaction,2020-06-08
+R009,O0696,Customer Dissatisfaction,2020-06-09
+R010,O0267,Damaged,2020-06-10
+R011,O0736,Customer Dissatisfaction,2020-06-11
+R012,O0693,Customer Dissatisfaction,2020-06-12
+R013,O0927,Late Delivery,2020-06-13
+R014,O0415,Damaged,2020-06-14
+R015,O0121,Wrong Item,2020-06-15
+R016,O0632,Damaged,2020-06-16
+R017,O0973,Customer Dissatisfaction,2020-06-17
+R018,O0963,Wrong Item,2020-06-18
+R019,O0212,Damaged,2020-06-19
+R020,O0137,Damaged,2020-06-20
+R021,O0433,Damaged,2020-06-21
+R022,O0430,Damaged,2020-06-22
+R023,O0045,Late Delivery,2020-06-23
+R024,O0989,Damaged,2020-06-24
+R025,O0108,Customer Dissatisfaction,2020-06-25
+R026,O0526,Customer Dissatisfaction,2020-06-26
+R027,O0556,Late Delivery,2020-06-27
+R028,O0226,Wrong Item,2020-06-28
+R029,O0512,Wrong Item,2020-06-29
+R030,O0655,Customer Dissatisfaction,2020-06-30
+R031,O0481,Customer Dissatisfaction,2020-07-01
+R032,O0659,Late Delivery,2020-07-02
+R033,O0912,Wrong Item,2020-07-03
+R034,O0080,Wrong Item,2020-07-04
+R035,O0301,Damaged,2020-07-05
+R036,O0868,Damaged,2020-07-06
+R037,O0035,Damaged,2020-07-07
+R038,O0039,Late Delivery,2020-07-08
+R039,O0097,Customer Dissatisfaction,2020-07-09
+R040,O0793,Late Delivery,2020-07-10
+R041,O0391,Wrong Item,2020-07-11
+R042,O0704,Customer Dissatisfaction,2020-07-12
+R043,O0676,Damaged,2020-07-13
+R044,O0217,Late Delivery,2020-07-14
+R045,O0887,Late Delivery,2020-07-15
+R046,O0866,Damaged,2020-07-16
+R047,O0428,Late Delivery,2020-07-17
+R048,O0759,Damaged,2020-07-18
+R049,O0945,Wrong Item,2020-07-19
+R050,O0252,Customer Dissatisfaction,2020-07-20
+R051,O0404,Wrong Item,2020-07-21
+R052,O0490,Wrong Item,2020-07-22
+R053,O0022,Damaged,2020-07-23
+R054,O0707,Late Delivery,2020-07-24
+R055,O0248,Wrong Item,2020-07-25
+R056,O0614,Wrong Item,2020-07-26
+R057,O0098,Wrong Item,2020-07-27
+R058,O0034,Late Delivery,2020-07-28
+R059,O0395,Late Delivery,2020-07-29
+R060,O0762,Damaged,2020-07-30
+R061,O0689,Wrong Item,2020-07-31
+R062,O0595,Customer Dissatisfaction,2020-08-01
+R063,O0725,Late Delivery,2020-08-02
+R064,O0260,Damaged,2020-08-03
+R065,O0360,Wrong Item,2020-08-04
+R066,O0751,Customer Dissatisfaction,2020-08-05
+R067,O0117,Late Delivery,2020-08-06
+R068,O0314,Customer Dissatisfaction,2020-08-07
+R069,O0864,Late Delivery,2020-08-08
+R070,O0280,Damaged,2020-08-09
+R071,O0478,Customer Dissatisfaction,2020-08-10
+R072,O0764,Wrong Item,2020-08-11
+R073,O0263,Wrong Item,2020-08-12
+R074,O0227,Late Delivery,2020-08-13
+R075,O0803,Wrong Item,2020-08-14
+R076,O0185,Customer Dissatisfaction,2020-08-15
+R077,O0302,Damaged,2020-08-16
+R078,O0575,Late Delivery,2020-08-17
+R079,O0555,Customer Dissatisfaction,2020-08-18
+R080,O0884,Late Delivery,2020-08-19
+R081,O0652,Damaged,2020-08-20
+R082,O0095,Late Delivery,2020-08-21
+R083,O0087,Wrong Item,2020-08-22
+R084,O0261,Wrong Item,2020-08-23
+R085,O0134,Late Delivery,2020-08-24
+R086,O0425,Damaged,2020-08-25
+R087,O0206,Damaged,2020-08-26
+R088,O0342,Wrong Item,2020-08-27
+R089,O0701,Damaged,2020-08-28
+R090,O0171,Late Delivery,2020-08-29
+R091,O0690,Customer Dissatisfaction,2020-08-30
+R092,O0029,Late Delivery,2020-08-31
+R093,O0858,Wrong Item,2020-09-01
+R094,O0914,Wrong Item,2020-09-02
+R095,O0195,Wrong Item,2020-09-03
+R096,O0583,Damaged,2020-09-04
+R097,O0890,Late Delivery,2020-09-05
+R098,O0127,Customer Dissatisfaction,2020-09-06
+R099,O0867,Late Delivery,2020-09-07
+R100,O0610,Customer Dissatisfaction,2020-09-08
+R101,O0250,Late Delivery,2020-09-09
+R102,O0305,Wrong Item,2020-09-10
+R103,O0388,Customer Dissatisfaction,2020-09-11
+R104,O0357,Late Delivery,2020-09-12
+R105,O0012,Damaged,2020-09-13
+R106,O0579,Damaged,2020-09-14
+R107,O0823,Late Delivery,2020-09-15
+R108,O0633,Wrong Item,2020-09-16
+R109,O0894,Customer Dissatisfaction,2020-09-17
+R110,O0466,Late Delivery,2020-09-18
+R111,O0232,Damaged,2020-09-19
+R112,O0780,Customer Dissatisfaction,2020-09-20
+R113,O0480,Damaged,2020-09-21
+R114,O0599,Damaged,2020-09-22
+R115,O0367,Late Delivery,2020-09-23
+R116,O0341,Damaged,2020-09-24
+R117,O0181,Customer Dissatisfaction,2020-09-25
+R118,O0375,Wrong Item,2020-09-26
+R119,O0600,Late Delivery,2020-09-27
+R120,O0604,Customer Dissatisfaction,2020-09-28
+R121,O0304,Late Delivery,2020-09-29
+R122,O0471,Damaged,2020-09-30
+R123,O0286,Damaged,2020-10-01
+R124,O0918,Customer Dissatisfaction,2020-10-02
+R125,O0969,Customer Dissatisfaction,2020-10-03
+R126,O0846,Wrong Item,2020-10-04
+R127,O0528,Customer Dissatisfaction,2020-10-05
+R128,O0569,Customer Dissatisfaction,2020-10-06
+R129,O0785,Late Delivery,2020-10-07
+R130,O0390,Damaged,2020-10-08
+R131,O0952,Customer Dissatisfaction,2020-10-09
+R132,O0454,Wrong Item,2020-10-10
+R133,O0032,Customer Dissatisfaction,2020-10-11
+R134,O0036,Damaged,2020-10-12
+R135,O0847,Customer Dissatisfaction,2020-10-13
+R136,O0429,Late Delivery,2020-10-14
+R137,O0724,Damaged,2020-10-15
+R138,O0519,Customer Dissatisfaction,2020-10-16
+R139,O0830,Late Delivery,2020-10-17
+R140,O0348,Damaged,2020-10-18
+R141,O0719,Customer Dissatisfaction,2020-10-19
+R142,O0151,Late Delivery,2020-10-20
+R143,O0174,Wrong Item,2020-10-21
+R144,O0129,Late Delivery,2020-10-22
+R145,O0366,Wrong Item,2020-10-23
+R146,O0879,Customer Dissatisfaction,2020-10-24
+R147,O0761,Late Delivery,2020-10-25
+R148,O0631,Wrong Item,2020-10-26
+R149,O0021,Damaged,2020-10-27
+R150,O0258,Late Delivery,2020-10-28
